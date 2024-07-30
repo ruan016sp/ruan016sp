@@ -1,4 +1,4 @@
-## Hi there 👋
+## boas vindas ao meu perfil 💚🏹
 
 <!--
 **ruan016sp/ruan016sp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
